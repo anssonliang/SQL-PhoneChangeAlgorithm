@@ -1,4 +1,4 @@
-# SQL-SmartPhoneChangeStatistics
+# SQL-SmartPhoneChangeAlgorithm
 
 Operator does not have the knowledge about which smartphone that subscribers were using before they get a new phone. 
 
